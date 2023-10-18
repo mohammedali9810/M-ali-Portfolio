@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/M-ali-Portfolio/static/css/main.21b7164d.css",
+    "main.js": "/M-ali-Portfolio/static/js/main.494086d5.js",
+    "static/js/787.1fbfb579.chunk.js": "/M-ali-Portfolio/static/js/787.1fbfb579.chunk.js",
+    "static/media/resume.pdf": "/M-ali-Portfolio/static/media/resume.ad770e9867712ef881e5.pdf",
+    "static/media/pic.png": "/M-ali-Portfolio/static/media/pic.f844acd4955699604b45.png",
+    "static/media/project.jpg": "/M-ali-Portfolio/static/media/project.0fa0d39ce83850ccd02c.jpg",
+    "static/media/education.png": "/M-ali-Portfolio/static/media/education.3682fa5ac4f8df3fd30d.png",
+    "index.html": "/M-ali-Portfolio/index.html",
+    "main.21b7164d.css.map": "/M-ali-Portfolio/static/css/main.21b7164d.css.map",
+    "main.494086d5.js.map": "/M-ali-Portfolio/static/js/main.494086d5.js.map",
+    "787.1fbfb579.chunk.js.map": "/M-ali-Portfolio/static/js/787.1fbfb579.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21b7164d.css",
+    "static/js/main.494086d5.js"
+  ]
+}
