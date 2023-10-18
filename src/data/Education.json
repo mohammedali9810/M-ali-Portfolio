@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Mansoura University",
+    "location": "Mansoura, Egypt",
+    "course": "Pre-Master Computer Science Diploma",
+    "span": "2020 - 2021",
+    "specialization": "Computer Science",
+    "Grade": "Good"
+  },
+  {
+    "name": "Mansoura University",
+    "location": "Mansoura, Egypt",
+    "course": "Bachelor of Sciences in Computer Sceince",
+    "span": "2016 - 2020",
+    "specialization": "Computer Science",
+    "Grade": "Good"
+  },
+  {
+    "name": "Mansoura College American schools",
+    "location": "Mansoura, Egypt",
+    "course": "American Diploma - Secondary",
+    "span": "2013 - 2016",
+    "score": "1650"
+  },
+  {
+    "name": "Mansoura College British schools",
+    "location": "Mansoura, Egypt",
+    "course": "IGCSE - Core - Secondary",
+    "span": "2011 - 2013",
+    "score": "A*"
+  }
+]

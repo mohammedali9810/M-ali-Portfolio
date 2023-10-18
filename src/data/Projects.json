@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Telco-Customer Churn Prediction - MLND Capstone Project",
+    "description": "Customer churn is defined by losing customers or clients. Which as in overall companies like mention here telephone companies pay numerous amount of money to explore the possible reasons and causes to customers churning from the company as for voluntary causes such as customer decides to leave or go for another service provider or involuntary cause which can be due to natural causes that prevent the customer from continuing his/her subscriptions, as in overall spending capital over how to keep customers satisfied and committing to the company is often less costly than exploring new ways to get new customers to replace old ones. What we’ll be Discussing through this project is the various type of customers and how the process of their subscription went through out and how that affects the future state of customers on the long term and understand analysis of the problem",
+    "sourceCode": "https://github.com/mohammedali9810/Telco-Customer-Churn-Prediction"
+  },
+  {
+    "name": "Creating Customer Segments",
+    "description": "The customer segments data is included as a selection of 440 data points collected on data found from clients of a wholesale distributor in Lisbon, Portugal. More information can be found on the UCI Machine Learning Repository.",
+    "sourceCode": "https://github.com/mohammedali9810/Customer-Segments"
+  },
+  {
+    "name": "Noto - Pado",
+    "description": "Noto-Pado is simple NotePad editor for text files with simple search & highlight, searching through Web for searched text, and simple basic funtions of creating/saving/overwriting files.",
+    "sourceCode": "https://github.com/mohammedali9810/Noto-Pado"
+  }
+ 
+]

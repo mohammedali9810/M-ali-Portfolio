@@ -1,0 +1,50 @@
+[
+  {
+    "span": "July 2020 - Dec 2021",
+    "company": "Upwork",
+    "linkedIn": "https://www.linkedin.com/company/upwork/",
+    "twitter": "https://twitter.com/upwork",
+    "progress": [
+      {
+        "role": "Python Freelancer",
+        "span": "July 2020 - Dec 2021",
+        "descriptions": [
+          " Worked on Scripts for SVM's, KNN, CNN Algorithms for classification projects.",
+          "Worked on Sub-System - Scripts."
+        ]
+      }
+    ]
+  },
+  {
+    "span": "Jul 2019 - Sept 2019",
+    "company": "ITI",
+    "linkedIn": "https://www.linkedin.com/school/information-technology-institute-iti-/",
+    "twitter": "https://twitter.com/iti_channel",
+    "progress": [
+      {
+        "role": "C# Developer Intern",
+        "span": "Jul 2019 - Sept 2019",
+        "descriptions": [
+          "Trained Over Various C# / .NET Techniques.",
+          "Designed Couple of Desktop / ASP web Projects"
+        ]
+      }
+    ]
+  },
+  {
+    "span": "Jun 2018 - July 2019",
+    "company": "UPwork",
+    "linkedIn": "https://www.linkedin.com/school/information-technology-institute-iti-/",
+    "twitter": "https://twitter.com/iti_channel",
+    "progress": [
+      {
+        "role": "Tensor Flow - Project - Freelancer",
+        "span": "Jun 2018 - July 2019",
+        "descriptions": [
+          "Worked on Various Tensorflow Projects, and Pandas.",
+          "Worked on Various Computer Vision - Projects as well Object Detection."
+        ]
+      }
+    ]
+  }
+]
